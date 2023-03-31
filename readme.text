@@ -1,0 +1,15 @@
+The Project is about a music Player with homePage and an artistPage, It is created using plain CSS3 and HTML only;
+
+It contains:
+
+--> musicHome.html (Home Page of the Music Player)
+--> artistPage.html (Artist Page)
+
+Both of these pages contain same styling document(style.css)
+
+Media Queries were added to only screen at:
+- 550px
+- 750px
+- 1200px
+
+*** Thank You ***
